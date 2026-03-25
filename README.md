@@ -11,13 +11,12 @@ It performs fast port scanning and grabs service banners from open ports.
 - Report saving (TXT)
 
 
-##  Usage
 
 ```bash
 python scanner.py
 
 
-Disclaimer!!!
+##Disclaimer!!!
 
 This tool is for educational and authorized testing purposes only.
 Do not use it on systems without permission.
@@ -43,7 +42,7 @@ Hızlı port taraması yapar ve açık portlardan servis banner'larını yakalar
 ```bash
 python scanner.py
 
-Uyarı!!!
+##Uyarı!!!
 
 Bu araç sadece eğitim ve izinli testler için kullanılmalıdır.
 İzinsiz sistemlerde kullanılması yasal değildir.
