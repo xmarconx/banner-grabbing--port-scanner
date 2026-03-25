@@ -24,7 +24,7 @@ Do not use it on systems without permission.
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-Python Port Tarayıcı ve Banner Yakalama
+# Python Port Tarayıcı ve Banner Yakalama
 
 Bu proje, Python ile oluşturulmuş basit, çok iş parçacıklı bir port tarayıcıdır.
 Hızlı port taraması yapar ve açık portlardan servis banner'larını yakalar.
