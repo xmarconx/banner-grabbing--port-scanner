@@ -1,4 +1,3 @@
-# banner-grabbing--port-scanner
 #  Python Port Scanner with Banner Grabbing
 
 This project is a simple multi-threaded port scanner built in Python.  
