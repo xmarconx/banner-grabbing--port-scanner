@@ -10,10 +10,12 @@ It performs fast port scanning and grabs service banners from open ports.
 - Scan duration tracking
 - Report saving (TXT)
 
-## Usage
+## 📌 Usage
 
 ```bash
 python scanner.py
+
+
 ⚠️ Disclaimer
 
 This tool is for educational and authorized testing purposes only.
