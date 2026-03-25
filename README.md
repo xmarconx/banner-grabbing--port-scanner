@@ -28,8 +28,7 @@ Hızlı port taraması (1–100 aralığı)
 Banner yakalama (servis tespiti)
 Tarama süresi takibi
 Rapor kaydetme (TXT)
-Kullanım
-python scanner.py
+
 ⚠️ Uyarı
 
 Bu araç sadece eğitim ve izinli testler için kullanılmalıdır.
