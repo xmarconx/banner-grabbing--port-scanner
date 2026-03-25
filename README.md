@@ -10,19 +10,12 @@ It performs fast port scanning and grabs service banners from open ports.
 - Scan duration tracking
 - Report saving (TXT)
 
-## 📌 Usage
-
-```bash
-python scanner.py
-
-
 ⚠️ Disclaimer
 
 This tool is for educational and authorized testing purposes only.
 Do not use it on systems without permission.
 
-
------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------
 
 # Python Port Tarayıcı ve Banner Yakalama
 
@@ -41,3 +34,9 @@ python scanner.py
 
 Bu araç sadece eğitim ve izinli testler için kullanılmalıdır.
 İzinsiz sistemlerde kullanılması yasal değildir.
+
+## 📌 Usage
+
+```bash
+python scanner.py
+
