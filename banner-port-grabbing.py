@@ -84,7 +84,7 @@ def run_scan():
 
     open_ports = []
 
-    # 1️⃣ Hızlı tarama (açık portları bul)
+   
     with ThreadPoolExecutor(max_workers=100) as executor:
         results = executor.map(fast_scan, SCAN_RANGE)
 
@@ -93,7 +93,7 @@ def run_scan():
             open_ports.append(port)
             print(f"[FAST] Port {port}: Open")
 
-    # 2️⃣ Sadece açık portlara banner grab
+   
     final_results = []
 
     print("\n[+] Banner Grabbing Started\n")
